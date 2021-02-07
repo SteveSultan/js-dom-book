@@ -1,2 +1,1 @@
-# js-dom-book
-This is practice code for JavaScript DOM
+# JavaScript-DOM-Tutorial
